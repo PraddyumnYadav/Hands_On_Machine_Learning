@@ -46,5 +46,4 @@ All contributions will be reviewed by the repository owner or moderator before b
 
 Thank you for considering contributing to this repository. We appreciate your help in making it a valuable resource for learning machine learning!
 
-## Outro
 If You Have any Doubt Please Start a Discussion on That.
