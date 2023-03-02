@@ -3,6 +3,8 @@
 - **Note** - This Book is not Written By Me.
 - This Code is not Exactly Same as the Book.
 - Some Big Projects from This Book are not in This Repository but Their Links are.
+- If You Have any Doubts You can ask it in Discussions Tab.
+- If You Want to Countribute to This Repository Read Our Contrubuting Guidelines and Code of Conduct.
 ## How to Get This Running on You Machine.
 - You Have to Run the Following Commands.
 - Clone the Repository.
