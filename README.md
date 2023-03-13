@@ -7,10 +7,11 @@
 - If You Want to Countribute to This Repository Read Our Contrubuting Guidelines and Code of Conduct.
 ## How to Get This Running on You Machine.
 - You Have to Run the Following Commands.
-- Clone the Repository.
+- Clone the Repository using ssh.
 ```
 git clone git@github.com:PraddyumnYadav/Hands_On_Machine_Learning.git
 ```
+- Clone the Repository using HTTPS.
 ```
 git clone https://github.com/PraddyumnYadav/Hands_On_Machine_Learning.git
 ```
