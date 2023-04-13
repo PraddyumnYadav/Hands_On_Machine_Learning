@@ -7,7 +7,7 @@
 - If You Want to Countribute to This Repository Read Our Contrubuting Guidelines and Code of Conduct.
 ## How to Get This Running on You Machine.
 - You Have to Run the Following Commands In Terminal to run it on your System.
-- The Commands here can run only in 'Linux Terminal' or 'Git Bash'.
+- The Commands here can run only in `Linux Terminal` or `Git Bash`.
 - Clone the Repository using ssh.
 ```
 git clone git@github.com:PraddyumnYadav/Hands_On_Machine_Learning.git
