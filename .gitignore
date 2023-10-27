@@ -134,7 +134,6 @@ dmypy.json
 # Added by Praddyumn-Yadav
 images/
 iris_tree.dot
-iris_tree.png 
 my_df.csv
 my_df.html
 my_df.json
