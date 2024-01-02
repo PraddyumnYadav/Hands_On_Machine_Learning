@@ -128,8 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Visual Studio Code
+# Visual Studio Code and other ides
 .vscode/
+.idea/
 
 # Added by Praddyumn-Yadav
 images/
